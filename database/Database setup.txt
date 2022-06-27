@@ -1,0 +1,3 @@
+cd Interview\database
+then write command in terminal
+mongorestore --db Interview dump/Interview
